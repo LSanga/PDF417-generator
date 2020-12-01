@@ -1,0 +1,5 @@
+#python3
+#apt-get install ghostscript / brew install ghostscript
+
+treepoem
+pillow
